@@ -1,7 +1,7 @@
 package com.example.mavenjava;
 
 /**
- * Hello world! 
+ * Hello world!!!!!
  *
  */
 public class App 
@@ -11,4 +11,5 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+
 
